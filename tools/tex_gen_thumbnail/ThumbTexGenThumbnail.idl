@@ -1,0 +1,38 @@
+
+	// ThumbTexGenThumbnail.idl : IDL source for tex_gen_thumbnail.exe
+//
+// This file will be processed by the MIDL tool to
+// produce the type library (tex_gen_thumbnail.tlb) and marshalling code.
+import "oaidl.idl";
+import "ocidl.idl";
+  
+	[
+		object,
+		uuid(D7580208-50CD-4F2D-B3EC-8F5C939A5B9F),
+		dual,
+		helpstring("ITexGenThumbnailExtractor Interface"),
+		pointer_default(unique)
+	]
+	interface ITexGenThumbnailExtractor : IDispatch
+	{
+	};
+
+[
+	uuid(D16D4DBB-F1D7-43D2-8F83-89044C1A8006),
+	version(1.0),
+	helpstring("ThumbTexGenThumbnail 1.0 Type Library")
+]
+library THUMBTEXGENTHUMBNAILLib 
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	[
+		uuid(CC651487-D734-49E4-9BFC-6E6D2D8AF9F7),
+		helpstring("TexGenThumbnailExtractor Class")
+	]
+	coclass TexGenThumbnailExtractor
+	{
+		[default] interface ITexGenThumbnailExtractor;
+	};
+};

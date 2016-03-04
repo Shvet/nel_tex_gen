@@ -1,0 +1,95 @@
+--- v0.1
+
++ radial gradient
++ multi output
++ mix operator
++ noise operator
++ color transform operator
+	+ Contrast / luminosity / color balance
+	+ Hue / saturation
+	+ RGB
++ normal operator
++ lighting operator
++ transform operator
+	+ move
+	+ rotate
+	+ shear
+	+ scale
++ filtered deformation
++ sinus deformation
++ background operators
++ sprites (modify noise) + sprite modulation
++ gradient bars (bricks)
++ clouds operator
++ filter sorted in folder
++ load / save / export
++ operator selection
+	+ remove the edit for the operator name
+	+ selection
+	+ show first selected
+	+ delete operator
++ widget for float
+	+ Button
+	+ Value range and fomula type for plugin
+	+ Value range, fomula and unit to display (Editbox)
+	+ Predefined marks (disabled with ctrl or shift)
+	+ Default value (Dbl click)
++ color picker
+	+ Basic color slots
+	+ RGB edit box
+	+ HSL edit box
+	+ RGB picker
++ bilinera filter should use easein method before sampling
++ larger gradient window
++ add easeinout in gradients
++ tiling / zoom previous 
++ preview an operator output
++ check all parameters are relative at image size
++ output alpha
++ texture samples 
+
+--- v?
+
++ windows explorer thumbnal plug-in
++ 3dsmax 3 plug-in
++ 3dsmax 5 plug-in
++ installer with components
++ view operator layer result or not
++ program icons
+
+FEATURES
+--------
+
+- files
+	- history file
+	- digital murder web site
+- install
+	- install icon on the desktop
+	- install menu
+	- open the directory
+	- run the application
+- bug file
+- font operator
+- scale in AngularGradient
+- operator cellular
+- clouds
+	- add low frequencies attenuation
+	- add intensity
+- anti aliase gradient
+- operator inverse
+- vertical sinus
+- vertical bars
+- smooth normaliser
+- color slot memorized in registry
+- gradient continuity parameter
+- interactive previous by auto divide texture size (option)
+- anisotropic filter for sinus and tranformation
+? file operator
+
+--- v1.0b
+
+BUGS
+----
+
+- refresh part of overlapped operators
+- edition crash (not reproducted)

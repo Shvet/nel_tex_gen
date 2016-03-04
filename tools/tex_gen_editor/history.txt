@@ -1,0 +1,96 @@
+NeL Texture Generator History
+
+--- Known bugs
+
+- part of overlapped operators window are not refreshed
+- edition crash (not reproducted)
+
+version 1.0b:
+
+	+ windows explorer thumbnail plug-in
+	+ 3dsmax 3 plug-in
+	+ 3dsmax 5 plug-in
+	+ view operator layer result or not
+	+ program icons
+	+ files
+		+ history file
+		+ digital murder web site
+	+ install
+		+ install components added
+		+ install icon on the desktop added
+		+ install menu added
+		+ register the document added
+		+ open the history file added
+		+ run the application added
+	+ text operator
+	+ pre translate special hotkey in dialog
+	+ scale in AngularGradient
+	+ clouds
+		+ add low frequencies attenuation
+		+ add intensity
+	+ operator quad
+	+ shematic window debuged
+	+ debug auto arrange
+	+ blur directions added
+	+ blur intensity in not more limited to 5
+	+ invert blend mode
+	+ cellular operator
+	+ use pro ui library
+	+ save windows and control bars setup
+
+version 0.1:
+
+	+ radial gradient
+	+ multi output
+	+ mix operator
+	+ noise operator
+	+ color transform operator
+		+ Contrast / luminosity / color balance
+		+ Hue / saturation
+		+ RGB
+	+ normal operator
+	+ lighting operator
+	+ transform operator
+		+ move
+		+ rotate
+		+ shear
+		+ scale
+	+ filtered deformation
+	+ sinus deformation
+	+ background operators
+	+ sprites (modify noise) + sprite modulation
+	+ gradient bars (bricks)
+	+ clouds operator
+	+ filter sorted in folder
+	+ load / save / export
+	+ operator selection
+		+ remove the edit for the operator name
+		+ selection
+		+ show first selected
+		+ delete operator
+	+ widget for float
+		+ Button
+		+ Value range and fomula type for plugin
+		+ Value range, fomula and unit to display (Editbox)
+		+ Predefined marks (disabled with ctrl or shift)
+		+ Default value (Dbl click)
+	+ color picker
+		+ Basic color slots
+		+ RGB edit box
+		+ HSL edit box
+		+ RGB picker
+	+ bilinera filter should use easein method before sampling
+	+ larger gradient window
+	+ add easeinout in gradients
+	+ tiling / zoom previous 
+	+ preview an operator output
+	+ check all parameters are relative at image size
+	+ output alpha
+	+ texture samples 
+	+ gradient continuity parameter
+
+left to do : 
+------------
+
+- merger un project
+

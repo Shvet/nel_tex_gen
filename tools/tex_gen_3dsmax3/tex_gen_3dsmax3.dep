@@ -1,0 +1,338 @@
+# Microsoft Developer Studio Generated Dependency File, included by tex_gen_3dsmax3.mak
+
+.\DllEntry.cpp : \
+	".\tex_gen_3dsmax3.h"\
+	"c:\lib\stlport\stlport\config\_epilog.h"\
+	"c:\lib\stlport\stlport\config\_msvc_warnings_off.h"\
+	"c:\lib\stlport\stlport\config\_prolog.h"\
+	"c:\lib\stlport\stlport\config\stl_confix.h"\
+	"c:\lib\stlport\stlport\config\stl_msvc.h"\
+	"c:\lib\stlport\stlport\config\stl_select_lib.h"\
+	"c:\lib\stlport\stlport\config\stlcomp.h"\
+	"c:\lib\stlport\stlport\config\vc_select_lib.h"\
+	"c:\lib\stlport\stlport\stl\_config.h"\
+	"c:\lib\stlport\stlport\stl\_config_compat.h"\
+	"c:\lib\stlport\stlport\stl\_config_compat_post.h"\
+	"c:\lib\stlport\stlport\stl\_epilog.h"\
+	"c:\lib\stlport\stlport\stl\_limits.c"\
+	"c:\lib\stlport\stlport\stl\_limits.h"\
+	"c:\lib\stlport\stlport\stl\_prolog.h"\
+	"c:\lib\stlport\stlport\stl\_site_config.h"\
+	"c:\lib\stlport\stlport\stl_user_config.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\acolor.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\animtbl.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\appio.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\assert1.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\bitarray.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\bitmap.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\bmmlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\box2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\box3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\buildver.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\captypes.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\channels.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\cmdmode.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\color.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\coreexp.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\custcont.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\dbgprint.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\dpoint3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\euler.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\evuser.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\export.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gbuf.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gencam.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\genhier.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\genlight.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\genshape.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\geom.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\geomlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gfloat.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gfx.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gfxlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gutil.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\hitdata.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\hold.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\impapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\impexp.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\imtl.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\inode.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\interval.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ioapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\iparamb.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\iparamb2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\iparamm.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\iparamm2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ipoint2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ipoint3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\istdplug.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\linklist.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\lockid.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\log.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\matrix2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\matrix3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\max.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\maxapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\maxcom.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\maxtess.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\maxtypes.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\mesh.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\meshlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\mouseman.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\mtl.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\namesel.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\nametab.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\object.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\objmode.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\palutil.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\patch.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\patchlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\patchobj.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\plugapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\plugin.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\point2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\point3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\point4.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\polyshp.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ptrvec.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\quat.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\random.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ref.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\render.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\rtclick.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\sbmtlapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\sceneapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\shape.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\shphier.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\shpsels.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\snap.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\soundobj.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\spline3d.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\stack.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\stack3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\strbasic.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\strclass.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\svcore.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\tab.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\templt.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\trig.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\triobj.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\units.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\utilexp.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\utillib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\vedge.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\winutil.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\tex_gen_3dsmax3.cpp : \
+	"..\..\..\include\nel\memory\memory_manager.h"\
+	"..\..\..\include\nel\misc\class_registry.h"\
+	"..\..\..\include\nel\misc\common.h"\
+	"..\..\..\include\nel\misc\debug.h"\
+	"..\..\..\include\nel\misc\displayer.h"\
+	"..\..\..\include\nel\misc\file.h"\
+	"..\..\..\include\nel\misc\log.h"\
+	"..\..\..\include\nel\misc\mem_displayer.h"\
+	"..\..\..\include\nel\misc\mutex.h"\
+	"..\..\..\include\nel\misc\rgba.h"\
+	"..\..\..\include\nel\misc\stream.h"\
+	"..\..\..\include\nel\misc\stream_inline.h"\
+	"..\..\..\include\nel\misc\time_nl.h"\
+	"..\..\..\include\nel\misc\types_nl.h"\
+	"..\..\..\include\nel\misc\ucstring.h"\
+	"..\..\..\src\tex_gen\basics.h"\
+	"..\..\..\src\tex_gen\bitmap_float.h"\
+	"..\..\..\src\tex_gen\tex_gen_document.h"\
+	"..\..\..\src\tex_gen\tex_gen_op.h"\
+	".\tex_gen_3dsmax3.h"\
+	"c:\lib\stlport\stlport\config\_epilog.h"\
+	"c:\lib\stlport\stlport\config\_msvc_warnings_off.h"\
+	"c:\lib\stlport\stlport\config\_prolog.h"\
+	"c:\lib\stlport\stlport\config\stl_confix.h"\
+	"c:\lib\stlport\stlport\config\stl_msvc.h"\
+	"c:\lib\stlport\stlport\config\stl_select_lib.h"\
+	"c:\lib\stlport\stlport\config\stlcomp.h"\
+	"c:\lib\stlport\stlport\config\vc_select_lib.h"\
+	"c:\lib\stlport\stlport\stl\_algo.c"\
+	"c:\lib\stlport\stlport\stl\_algo.h"\
+	"c:\lib\stlport\stlport\stl\_algobase.c"\
+	"c:\lib\stlport\stlport\stl\_algobase.h"\
+	"c:\lib\stlport\stlport\stl\_alloc.h"\
+	"c:\lib\stlport\stlport\stl\_auto_ptr.h"\
+	"c:\lib\stlport\stlport\stl\_bvector.h"\
+	"c:\lib\stlport\stlport\stl\_config.h"\
+	"c:\lib\stlport\stlport\stl\_config_compat.h"\
+	"c:\lib\stlport\stlport\stl\_config_compat_post.h"\
+	"c:\lib\stlport\stlport\stl\_construct.h"\
+	"c:\lib\stlport\stlport\stl\_ctraits_fns.h"\
+	"c:\lib\stlport\stlport\stl\_ctype.h"\
+	"c:\lib\stlport\stlport\stl\_deque.c"\
+	"c:\lib\stlport\stlport\stl\_deque.h"\
+	"c:\lib\stlport\stlport\stl\_epilog.h"\
+	"c:\lib\stlport\stlport\stl\_function.h"\
+	"c:\lib\stlport\stlport\stl\_function_base.h"\
+	"c:\lib\stlport\stlport\stl\_hash_fun.h"\
+	"c:\lib\stlport\stlport\stl\_heap.c"\
+	"c:\lib\stlport\stlport\stl\_heap.h"\
+	"c:\lib\stlport\stlport\stl\_ios.c"\
+	"c:\lib\stlport\stlport\stl\_ios.h"\
+	"c:\lib\stlport\stlport\stl\_ios_base.h"\
+	"c:\lib\stlport\stlport\stl\_iosfwd.h"\
+	"c:\lib\stlport\stlport\stl\_istream.c"\
+	"c:\lib\stlport\stlport\stl\_istream.h"\
+	"c:\lib\stlport\stlport\stl\_istreambuf_iterator.h"\
+	"c:\lib\stlport\stlport\stl\_iterator.h"\
+	"c:\lib\stlport\stlport\stl\_iterator_base.h"\
+	"c:\lib\stlport\stlport\stl\_iterator_old.h"\
+	"c:\lib\stlport\stlport\stl\_limits.c"\
+	"c:\lib\stlport\stlport\stl\_limits.h"\
+	"c:\lib\stlport\stlport\stl\_list.c"\
+	"c:\lib\stlport\stlport\stl\_list.h"\
+	"c:\lib\stlport\stlport\stl\_locale.h"\
+	"c:\lib\stlport\stlport\stl\_map.h"\
+	"c:\lib\stlport\stlport\stl\_num_get.c"\
+	"c:\lib\stlport\stlport\stl\_num_get.h"\
+	"c:\lib\stlport\stlport\stl\_num_put.c"\
+	"c:\lib\stlport\stlport\stl\_num_put.h"\
+	"c:\lib\stlport\stlport\stl\_numpunct.h"\
+	"c:\lib\stlport\stlport\stl\_ostream.c"\
+	"c:\lib\stlport\stlport\stl\_ostream.h"\
+	"c:\lib\stlport\stlport\stl\_ostreambuf_iterator.h"\
+	"c:\lib\stlport\stlport\stl\_pair.h"\
+	"c:\lib\stlport\stlport\stl\_prolog.h"\
+	"c:\lib\stlport\stlport\stl\_range_errors.h"\
+	"c:\lib\stlport\stlport\stl\_raw_storage_iter.h"\
+	"c:\lib\stlport\stlport\stl\_relops_cont.h"\
+	"c:\lib\stlport\stlport\stl\_set.h"\
+	"c:\lib\stlport\stlport\stl\_site_config.h"\
+	"c:\lib\stlport\stlport\stl\_sstream.c"\
+	"c:\lib\stlport\stlport\stl\_sstream.h"\
+	"c:\lib\stlport\stlport\stl\_stdio_file.h"\
+	"c:\lib\stlport\stlport\stl\_streambuf.c"\
+	"c:\lib\stlport\stlport\stl\_streambuf.h"\
+	"c:\lib\stlport\stlport\stl\_string.c"\
+	"c:\lib\stlport\stlport\stl\_string.h"\
+	"c:\lib\stlport\stlport\stl\_string_fwd.c"\
+	"c:\lib\stlport\stlport\stl\_string_fwd.h"\
+	"c:\lib\stlport\stlport\stl\_string_hash.h"\
+	"c:\lib\stlport\stlport\stl\_string_io.c"\
+	"c:\lib\stlport\stlport\stl\_string_io.h"\
+	"c:\lib\stlport\stlport\stl\_tempbuf.c"\
+	"c:\lib\stlport\stlport\stl\_tempbuf.h"\
+	"c:\lib\stlport\stlport\stl\_threads.c"\
+	"c:\lib\stlport\stlport\stl\_threads.h"\
+	"c:\lib\stlport\stlport\stl\_tree.c"\
+	"c:\lib\stlport\stlport\stl\_tree.h"\
+	"c:\lib\stlport\stlport\stl\_uninitialized.h"\
+	"c:\lib\stlport\stlport\stl\_vector.c"\
+	"c:\lib\stlport\stlport\stl\_vector.h"\
+	"c:\lib\stlport\stlport\stl\c_locale.h"\
+	"c:\lib\stlport\stlport\stl\char_traits.h"\
+	"c:\lib\stlport\stlport\stl\type_traits.h"\
+	"c:\lib\stlport\stlport\stl_user_config.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\acolor.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\animtbl.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\appio.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\assert1.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\bitarray.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\bitmap.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\bmmlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\box2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\box3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\buildver.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\captypes.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\channels.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\cmdmode.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\color.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\coreexp.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\custcont.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\dbgprint.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\dpoint3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\euler.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\evuser.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\export.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gbuf.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gencam.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\genhier.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\genlight.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\genshape.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\geom.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\geomlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gfloat.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gfx.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gfxlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\gutil.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\hitdata.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\hold.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\impapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\impexp.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\imtl.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\inode.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\interval.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ioapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\iparamb.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\iparamb2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\iparamm.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\iparamm2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ipoint2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ipoint3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\istdplug.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\linklist.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\lockid.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\log.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\matrix2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\matrix3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\max.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\maxapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\maxcom.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\maxtess.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\maxtypes.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\mesh.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\meshlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\mouseman.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\mtl.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\namesel.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\nametab.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\object.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\objmode.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\palutil.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\patch.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\patchlib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\patchobj.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\plugapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\plugin.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\point2.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\point3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\point4.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\polyshp.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ptrvec.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\quat.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\random.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\ref.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\render.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\rtclick.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\sbmtlapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\sceneapi.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\shape.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\shphier.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\shpsels.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\snap.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\soundobj.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\spline3d.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\stack.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\stack3.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\strbasic.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\strclass.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\svcore.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\tab.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\templt.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\trig.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\triobj.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\units.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\utilexp.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\utillib.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\vedge.h"\
+	"c:\program files\3dsmax3_1\maxsdk\include\winutil.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	

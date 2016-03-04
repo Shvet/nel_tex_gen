@@ -1,0 +1,134 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "misc"=..\..\..\src\misc.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "nel_tex_gen"=.\nel_tex_gen.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name misc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name tex_gen
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "tex_gen"=..\..\..\src\tex_gen.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "tex_gen_3dsmax3"=..\tex_gen_3dsmax3\tex_gen_3dsmax3.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name misc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name tex_gen
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "tex_gen_3dsmax5"=..\tex_gen_3dsmax5\tex_gen_3dsmax5.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name misc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name tex_gen
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "tex_gen_install"=..\tex_gen_install\tex_gen_install.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name nel_tex_gen
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name tex_gen_thumbnail
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name tex_gen_3dsmax5
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "tex_gen_thumbnail"=..\tex_gen_thumbnail\tex_gen_thumbnail.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name misc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name tex_gen
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

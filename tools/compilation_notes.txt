@@ -1,0 +1,10 @@
+To compile this project you need :
+
+- NeL : http://www.nevrax.org
+- STLPort 5.x : http://www.stlport.org
+- FreeType 2.x : http://www.freetype.org
+- Prof-UIS : http://www.prof-uis.com
+
+The 3dsmax SDKs are needed to compile the plug-ins.
+
+Hld.

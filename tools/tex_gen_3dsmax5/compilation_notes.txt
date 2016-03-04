@@ -1,0 +1,3 @@
+With Visual C++ 6 SP1 + Processor Pack
+
+-> You need to download and install the Platform SDK and put the include / lib directories before the visual original ones.
